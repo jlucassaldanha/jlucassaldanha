@@ -1,4 +1,5 @@
 ## Fala galacta!!! Podem me chamar de João (@ojoojao)
+![layout1 (2)](https://github.com/user-attachments/assets/3f21eead-ae46-4642-95a4-4903cd5961c8)
 Sou um técnico em eletronica e estudante de programação. Trabalho na empresa Lifemed no desenvolvimento de automações.
 Estou sempre a procura de novos desafios e consequentimente novos aprendizados.
 Procuro sempre como posso melhorar, oragizar melhor meus códigos e criar projetos cada vez mais serguros e robustos.
