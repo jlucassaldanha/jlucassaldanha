@@ -12,13 +12,13 @@ Ah é, no meu tempo livre eu também gosto de desenha, fazer live, gravar e edit
 - C e C++ - Eu sei me virar muito bem nelas, mas ainda quero me desenvolver mais.
 - LabView - É outra linguagem que sei me virar muito bem.
 - HTML e CSS - São campos que tenho começado a explorar, gosto muito, mas ainda tenho que melhorar.
-- Hardware - Sei bem por conta do meu curso, então MCU e placas de cirucuito impresso, pode contar comigo.
+- Hardware - Sei por conta do meu curso, então MCU e placas de cirucuito impresso, pode contar comigo.
 
 #### Ainda quero aprender:
 - Java 
 - JavaScript
 - Rust
--Trabalhar com dados no geral e me aprofundar nos conhecimentos como a maquina e o código funcionam juntos
+- Trabalhar com dados no geral e me aprofundar nos conhecimentos como a maquina e o código funcionam juntos
 
 ## Áreas de interesse:
 - Inteligencia artifical e aprendizado de máquina 
