@@ -1,6 +1,4 @@
-# Fala galacta!!! Podem me chamar de João (@ojoojao)
-
-## Sobre mim:
+## Fala galacta!!! Podem me chamar de João (@ojoojao)
 Sou um técnico em eletronica e estudante de programação. Trabalho na empresa Lifemed no desenvolvimento de automações.
 Estou sempre a procura de novos desafios e consequentimente novos aprendizados.
 Procuro sempre como posso melhorar, oragizar melhor meus códigos e criar projetos cada vez mais serguros e robustos.
