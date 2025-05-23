@@ -5,7 +5,7 @@
 Estou sempre a procura de novos desafios e consequentimente novos aprendizados.
 Procuro sempre como posso melhorar, oragizar melhor meus códigos e criar projetos cada vez mais serguros e robustos.
 
-Ah é, no meu tempo livre eu também gosto de desenha, fazer live, gravar e editar videos...
+Ah é, no meu tempo livre eu também gosto de desenhar, fazer live, gravar e editar videos...
 
 ## Ferramentas e técnologias:
 - Python - É a linguagem na qual mais tenho me desenvolvido.
