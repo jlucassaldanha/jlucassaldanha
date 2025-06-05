@@ -1,10 +1,18 @@
 ## Fala galacta!!! Podem me chamar de João (@jlucassaldanha)
+
+Bem-vindo(a) ao meu perfil no GitHub! 🚀  
 <!-- ![github](https://github.com/user-attachments/assets/dd445850-ae19-42f7-a885-f986152fd6c1)-->
 
-Sou técnico em eletronica e desenvolvedor. Trabalho com desenvolvimento de automações na Lifemed
+---
+
+### 🚀 **Sobre mim**
+
+Sou **técnico em eletronica** e **desenvolvedor**. Trabalho com desenvolvimento de automações na Lifemed
 Estou sempre a procura de novos desafios e novos aprendizados.
 
-## Ferramentas e técnologias:
+---
+
+### 🛠️ **Ferramentas e técnologias**
 - Python - É a linguagem na qual mais tenho conhecimento com 1 ano e meio de estudo e desenvolvimento.
 - Flask - Desenvolvimento básico.
 - Poetry - Utilização básica. 
@@ -18,7 +26,9 @@ Estou sempre a procura de novos desafios e novos aprendizados.
 - MySQL - Noções básicas.
 - Hardware - Bom conhecimento de MCU e placas de cirucuito impresso, solda.
 
-## Áreas de interesse:
+---
+
+### **Áreas de interesse**
 - Desenvolvimento WEB
 - Engenharia de software
 - Análise de dados
