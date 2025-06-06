@@ -61,6 +61,11 @@ Sou apaixonado em entender como as coisas funcionam alé de criar coisas novas.
 
 📫 **Contato**:
 
+<a  href="https://www.linkedin.com/in/joao-lucas-saldanha/">linkedin.com/in/joao-lucas-saldanha</a>
+
+j.lucassaldanha@gmail.com
+
+<!--
 <div style="display:flex; ">
 <a style="color:white; text-decoration:none" href="https://www.linkedin.com/in/joao-lucas-saldanha/">
 <div style="background-color:#02569B; width:100px; height:34px; padding:0px; display:flex;">
@@ -75,6 +80,8 @@ Sou apaixonado em entender como as coisas funcionam alé de criar coisas novas.
 <img src="https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="gmail">
 	<a style="margin-top:5px; margin-left:10px" href="">j.lucassaldanha@gmail.com</a>
 </div>
+-->
 
 ---
+
 
