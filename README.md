@@ -59,6 +59,8 @@ Sou apaixonado em entender como as coisas funcionam alé de criar coisas novas.
 - **Projeto:** Desenvolvimento de ChatBot da Twitch utilizando API Rest e reconhecimento de voz em Python
 - **Projeto:** Vizualisador de Viewers no canal da Twitch, utilizando API criada em Python (Flask) com interface em JavaScript.  
 
+---
+
 📫 **Contato**:
 
 <a  href="https://www.linkedin.com/in/joao-lucas-saldanha/">linkedin.com/in/joao-lucas-saldanha</a>
