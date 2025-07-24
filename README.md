@@ -13,7 +13,6 @@ Bem-vindo(a) ao meu perfil no GitHub! 🚀
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=Flask&logoColor=black" alt="Flask">
   <img src="https://img.shields.io/badge/Poetry-ffffff?style=for-the-badge&logo=Poetry&logoColor=blue" alt="Poetry">
-  <img src="https://img.shields.io/badge/Qt-28DF86?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt">
   <img src="https://img.shields.io/badge/LabVIEW-white?style=for-the-badge&logo=labview&logoColor=yellow" alt="LabVIEW">
   <img src="https://img.shields.io/badge/C/C++-gray?style=for-the-badge&logo=c&logoColor=blue" alt="C/C++">
   <img src="https://img.shields.io/badge/Arduino-white?style=for-the-badge&logo=arduino&logoColor=blue" alt="Arduino">
