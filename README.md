@@ -34,7 +34,8 @@
   🔗 [Link da aplicação](https://view-viewers.vercel.app)
 
 - [Monday bot (Twitch API + reconhecimento de voz)](https://github.com/jlucassaldanha/monday-bot)  
-ChatBot da Twitch com reconhecimento de voz utilizando API da Twitch e reconhecimento de voz com Python 
+ChatBot da Twitch com reconhecimento de voz utilizando API da Twitch e reconhecimento de voz com Python. 
+🔗 [Repositório](https://github.com/jlucassaldanha/monday-bot)
 
 - [Plataforma de Calibração (Trabalho)](https://calculadora-calib.vercel.app)  
   Aplicação web desenvolvida para cálculo e armazenamento de dados de calibração.  
