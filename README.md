@@ -1,23 +1,22 @@
 # 👋 Olá, eu sou o João Lucas 
 
-🚀 Desenvolvedor Front-end focado em **React + TypeScript**  
-💻 Experiência com **FastAPI (Python) + SQLAlchemy** para back-end  
-📊 Interesse em integrações de APIs, automações e aplicações full-stack  
+- 🚀 Desenvolvedor Front-end focado em **React + TypeScript**  
+- 💻 Experiência com **FastAPI (Python) + SQLAlchemy** para back-end  
+- 📊 Interesse em integrações de APIs, automações e aplicações full-stack  
 
 ## Tecnologias que utilizo
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript" alt="JavaScript">
-   <img src="https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=React" alt="React">
-  <img src="https://img.shields.io/badge/html5-white?style=for-the-badge&logo=html5" alt="html5">
-  <img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css" alt="css3">
-  <img src="https://img.shields.io/badge/tailwind-white?style=for-the-badge&logo=tailwindcss" alt="tailwind">
-  <img src="https://img.shields.io/badge/axios-purple?style=for-the-badge&logo=axios" alt="axios">
-  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=FastAPI" alt="Flask">
-  <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=Git" alt="Git">
-  <img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=SQLite" alt="SQL"> 
-</div>
+![JavaScript](https://shields.io/badge/JavaScript-ES6-f7df1e?logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript)
+![React](https://img.shields.io/badge/React-18-61dafb?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?logo=tailwind-css)
+![Axios](https://img.shields.io/badge/Axios-gray?logo=axios)
+![HTML5](https://img.shields.io/badge/HTML-5-e34f26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-3-3178c6?logo=css&logoColor=3178c6)
+![Python](https://shields.io/badge/Python-13-3670a0?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-gray?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-gray?logo=flask)
+![GIT](https://img.shields.io/badge/GIT-gray?logo=Git)
+![SQL](https://img.shields.io/badge/SQLite-gray?logo=SQLite)
 
 ---
 
