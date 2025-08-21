@@ -29,16 +29,20 @@
 ## 📌 Projetos em Destaque
 - [View Viewers (Twitch API)](https://view-viewers.vercel.app)  
   Aplicação em React + TypeScript consumindo a API da Twitch. Publicada na Vercel.  
+  
   🔗 [Repositório](https://github.com/jlucassaldanha/view-viewers)
+  
   🔗 [Link da aplicação](https://view-viewers.vercel.app)
 
 - [Monday bot (Twitch API + reconhecimento de voz)](https://github.com/jlucassaldanha/monday-bot)  
-ChatBot da Twitch com reconhecimento de voz utilizando API da Twitch e reconhecimento de voz com Python. 
-🔗 [Repositório](https://github.com/jlucassaldanha/monday-bot)
+  ChatBot da Twitch com reconhecimento de voz utilizando API da Twitch e reconhecimento de voz com Python. 
+
+  🔗 [Repositório](https://github.com/jlucassaldanha/monday-bot)
 
 - [Plataforma de Calibração (Trabalho)](https://calculadora-calib.vercel.app)  
   Aplicação web desenvolvida para cálculo e armazenamento de dados de calibração.  
-  🔗 [Repositório público simplificado/mocado em breve]
+  
+  🔗 [Repositório público simplificado/mocado em breve]()
 
 ## 🎓 Formação Acadêmica
 - Análise e Desenvolvimento de Sistemas - UniCV - Cursando
