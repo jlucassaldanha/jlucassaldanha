@@ -27,7 +27,7 @@
 
 
 ## 📌 Projetos em Destaque
-- [View Viewers (Twitch API)](https://spectralive.vercel.app)  
+- [Spectra Live (Twitch API)](https://spectralive.vercel.app)  
   Aplicação em React + TypeScript consumindo a API da Twitch. Publicada na Vercel.  
   
   🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live)
