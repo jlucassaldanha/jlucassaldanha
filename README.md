@@ -27,30 +27,28 @@
 
 
 ## 📌 Projetos em Destaque
-- [Spectra Live (Twitch API)](https://spectralive.vercel.app)  
-  Aplicação em React + TypeScript consumindo a API da Twitch. Publicada na Vercel.  
+- **[Spectra Live (Twitch API)](https://spectralive.vercel.app)** 
+  
+  Aplicação em React + TypeScript consumindo a API da Twitch publicada na Vercel.  
+
+  **Em breve nova versão**
   
   🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live)
   
   🔗 [Link da aplicação](https://spectralive.vercel.app)
 
-- [Monday bot (Twitch API + reconhecimento de voz)](https://github.com/jlucassaldanha/monday-bot)  
+- **[Monday bot (Twitch API + reconhecimento de voz)](https://github.com/jlucassaldanha/monday-bot)**
+
   ChatBot da Twitch com reconhecimento de voz utilizando API da Twitch e reconhecimento de voz com Python. 
 
   🔗 [Repositório](https://github.com/jlucassaldanha/monday-bot)
 
-- [Plataforma de Calibração (Trabalho)](https://calculadora-calib.vercel.app)  
-  Aplicação web desenvolvida para cálculo e armazenamento de dados de calibração.  
-  
-  🔗 [Repositório público simplificado/mocado em breve]()
-
 ## 🎓 Formação Acadêmica
-- Análise e Desenvolvimento de Sistemas - UniCV - Cursando
-- Técnico eletrônico - IFSul - Concluído
+- **Análise e Desenvolvimento de Sistemas** - UniCV - Cursando
+- **Técnico eletrônico** - IFSul - Concluído
 
 ## 💼 Experiência
-- **Lifemed:** Desenvolvimento de aplicações em React + TypeScript e Python.
+- **Lifemed:** Desenvolvimento de sistemas em React + TypeScript e Python.
 
 ## 📫 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/joao-lucas-saldanha/)  
-- [Portfólio de projetos (GitHub)](https://github.com/jlucassaldanha)
+- [LinkedIn (João Lucas Saldanha)](https://www.linkedin.com/in/joao-lucas-saldanha/)  
