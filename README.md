@@ -27,15 +27,21 @@
 
 
 ## 📌 Projetos em Destaque
-- **[Spectra Live (Twitch API)](https://spectralive.vercel.app)** 
+- **[Spectra Live](https://spectralive.vercel.app)** 
   
-  Aplicação em React + TypeScript consumindo a API da Twitch publicada na Vercel.  
-
-  **Em breve nova versão**
+  Aplicação em React + TypeScript consumindo RestAPI própria (que consome a API da Twitch) publicada na Vercel.  
   
   🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live)
   
   🔗 [Link da aplicação](https://spectralive.vercel.app)
+
+- **[Spectra Live API](https://spectra-api.onrender.com/redoc)** 
+  
+  RestAPI em Python que serve ao **Spectra Live**. A API consome a API da Twitch e tem conexão com banco de dados PostgresSQL.  
+  
+  🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live-api)
+  
+  🔗 [Link da aplicação](https://spectra-api.onrender.com/redoc)
 
 - **[Monday bot (Twitch API + reconhecimento de voz)](https://github.com/jlucassaldanha/monday-bot)**
 
