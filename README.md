@@ -1,12 +1,13 @@
 # 👋 Olá, eu sou o João Lucas 
 
-- 🚀 Desenvolvedor Front-end focado em **React + TypeScript**  
+- 🚀 Desenvolvedor Front-end focado em **Next.js, React e TypeScript**  
 - 💻 Experiência com **FastAPI (Python) + SQLAlchemy** para back-end  
 - 📊 Interesse em integrações de APIs, automações e aplicações full-stack  
 
 ## Tecnologias que utilizo
-![JavaScript](https://shields.io/badge/JavaScript-ES6-f7df1e?logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript)
+![JavaScript](https://shields.io/badge/JavaScript-ES6-f7df1e?logo=JavaScript)
+![Next.js](https://img.shields.io/badge/Next.js-15-000?logo=next.js)
 ![React](https://img.shields.io/badge/React-gray?logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?logo=tailwind-css)
 ![Axios](https://img.shields.io/badge/Axios-gray?logo=axios)
@@ -41,8 +42,16 @@
   
   🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live-api)
   
-  🔗 [Link da aplicação](https://spectra-api.onrender.com/redoc)
+  🔗 [Link da aplicação](https://spectralive-api.up.railway.app/redoc)
 
+- **[Filmes&Tal](https://filmesetal.vercel.app)** 
+
+  Catálogo de filmes em Next.js + TypeScript. Faz o consumo da API de TMDb.
+  
+  🔗 [Repositório](https://github.com/jlucassaldanha/filmesetal)
+  
+  🔗 [Link da aplicação](https://filmesetal.vercel.app)
+  
 - **[Monday bot (Twitch API + reconhecimento de voz)](https://github.com/jlucassaldanha/monday-bot)**
 
   ChatBot da Twitch com reconhecimento de voz utilizando API da Twitch e reconhecimento de voz com Python. 
