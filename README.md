@@ -59,12 +59,6 @@
   🔗 [Repositório](https://github.com/jlucassaldanha/filmesetal)
   
   🔗 [Link da aplicação](https://filmesetal.vercel.app)
-  
-- **[Monday bot (Twitch API + reconhecimento de voz)](https://github.com/jlucassaldanha/monday-bot)**
-
-  ChatBot da Twitch com reconhecimento de voz utilizando API da Twitch e reconhecimento de voz com Python. 
-
-  🔗 [Repositório](https://github.com/jlucassaldanha/monday-bot)
 
 ## 🎓 Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas** - UniCV - Cursando
