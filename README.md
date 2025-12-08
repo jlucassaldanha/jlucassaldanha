@@ -28,25 +28,33 @@
 
 
 ## 📌 Projetos em Destaque
+- **[Controle de ponto](https://controleponto.vercel.app)** 
+  
+  Aplicação em Next.js + TypeScript com DB PostgresSQL publicada na Vercel. A aplicação tem o objetivo de fornecer um controle de ponto automatizado e simples para que usuários possam ter um controle de horas extras sem o uso de planilhas. 
+  
+  🔗 [Repositório](https://github.com/jlucassaldanha/controle-ponto)
+  
+  🔗 [Link da aplicação](https://controleponto.vercel.app)
+  
 - **[Spectra Live](https://spectralive.vercel.app)** 
   
-  Aplicação em React + TypeScript consumindo RestAPI própria (que consome a API da Twitch) publicada na Vercel.  
+  Aplicação em React + TypeScript consumindo RestAPI própria (que consome a API da Twitch) publicada na Vercel. A aplicação permite que o usuário monitore os usuários ativos no chat da sua live.
   
   🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live)
   
   🔗 [Link da aplicação](https://spectralive.vercel.app)
 
-- **[Spectra Live API](https://spectra-api.onrender.com/redoc)** 
-  
-  RestAPI em Python que serve ao **Spectra Live**. A API consome a API da Twitch e tem conexão com banco de dados PostgresSQL.  
-  
-  🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live-api)
-  
-  🔗 [Link da aplicação](https://spectralive-api.up.railway.app/redoc)
+  - **[Spectra Live API](https://spectra-api.onrender.com/redoc)** 
+    
+    RestAPI em Python que serve ao **Spectra Live**. A API consome a API da Twitch e tem conexão com banco de dados PostgresSQL.  
+    
+    🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live-api)
+    
+    🔗 [Link da aplicação](https://spectralive-api.up.railway.app/redoc)
 
 - **[Filmes&Tal](https://filmesetal.vercel.app)** 
 
-  Catálogo de filmes em Next.js + TypeScript. Faz o consumo da API de TMDb.
+  Catálogo de filmes em Next.js + TypeScript. Faz o consumo da API de TMDb. Aplicação feita para estudo de Next.js
   
   🔗 [Repositório](https://github.com/jlucassaldanha/filmesetal)
   
