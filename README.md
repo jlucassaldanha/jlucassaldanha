@@ -21,10 +21,10 @@
 
 ---
 
-- **Front-end**: React, Next.js (em estudo), TypeScript, Tailwind, Axios, Vite  
+- **Front-end**: React, Next.js, TypeScript, Tailwind, Axios, Vite  
 - **Back-end**: Python, FastAPI, SQLAlchemy  
 - **Banco de Dados**: SQLite, PostgreSQL  
-- **Outros**: Git, Vercel, CI/CD (GitHub Actions em estudo)
+- **Outros**: Git, Vercel, CI/CD
 
 
 ## 📌 Projetos em Destaque
