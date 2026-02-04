@@ -28,7 +28,7 @@
 
 
 ## 📌 Projetos em Destaque
-- **[Controle de ponto](https://controleponto.vercel.app)** 
+- **[Controle de ponto](https://controleponto.vercel.app) (em desenvolvimento)** 
   
   Aplicação em Next.js + TypeScript com DB PostgresSQL publicada na Vercel. A aplicação tem o objetivo de fornecer um controle de ponto automatizado e simples para que usuários possam ter um controle de horas extras sem o uso de planilhas. 
   
