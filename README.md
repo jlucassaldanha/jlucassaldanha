@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o João Lucas 
 
-- 🚀 Desenvolvedor Front-end focado em **Next.js, React e TypeScript**  
+- 🚀 Experiência na stack **Next.js, React e TypeScript** para front-end
 - 💻 Experiência com **FastAPI (Python) + SQLAlchemy** para back-end  
-- 📊 Interesse em integrações de APIs, automações e aplicações full-stack  
+- 📊 Interesse em integrações de APIs, automações, interfaces e aplicações full-stack  
 
 ## Tecnologias que utilizo
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?logo=typescript)
@@ -25,7 +25,6 @@
 - **Back-end**: Python, FastAPI, SQLAlchemy  
 - **Banco de Dados**: SQLite, PostgreSQL  
 - **Outros**: Git, Vercel, CI/CD
-
 
 ## 📌 Projetos em Destaque
 - **[Controle de ponto](https://controleponto.vercel.app) (em desenvolvimento)** 
@@ -51,14 +50,6 @@
     🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live-api)
     
     🔗 [Link da aplicação](https://spectralive-api.up.railway.app/redoc)
-
-- **[Filmes&Tal](https://filmesetal.vercel.app)** 
-
-  Catálogo de filmes em Next.js + TypeScript. Faz o consumo da API de TMDb. Aplicação feita para estudo de Next.js
-  
-  🔗 [Repositório](https://github.com/jlucassaldanha/filmesetal)
-  
-  🔗 [Link da aplicação](https://filmesetal.vercel.app)
 
 ## 🎓 Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas** - UniCV - Cursando
