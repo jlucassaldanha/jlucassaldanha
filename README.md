@@ -35,17 +35,18 @@
   
   🔗 [Link da aplicação](https://controleponto.vercel.app)
   
-- **[Spectra Live](https://spectralive.vercel.app)** 
+- **[Spectra Live](https://spectralive.vercel.app) (API em desenvolvimento)** 
   
-  Aplicação em React + TypeScript consumindo RestAPI própria (que consome a API da Twitch) publicada na Vercel. A aplicação permite que o usuário monitore os usuários ativos no chat da sua live.
+  Aplicação em React + TypeScript consumindo API Rest própria (que consome a API da Twitch) publicada na Vercel. A aplicação permite que o usuário monitore os usuários ativos no chat da sua live.
   
   🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live)
   
   🔗 [Link da aplicação](https://spectralive.vercel.app)
 
-  - **[Spectra Live API](https://spectra-api.onrender.com/redoc)** 
-    
-    RestAPI em Python que serve ao **Spectra Live**. A API consome a API da Twitch e tem conexão com banco de dados PostgresSQL.  
+  - **[Spectra Live API](https://spectra-api.onrender.com/redoc) (em desenvolvimento)** 
+    API Rest em Python que serve ao **Spectra Live**. A API consome a API da Twitch e tem conexão com banco de dados PostgresSQL.
+
+    *O projeto está sendo refatorado para o ecossistema .NET*  
     
     🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live-api)
     
