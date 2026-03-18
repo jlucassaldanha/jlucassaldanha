@@ -50,7 +50,9 @@
     *O projeto está sendo refatorado para o ecossistema .NET*
 
     API Rest em Python que serve ao **Spectra Live**. A API consome a API da Twitch e tem conexão com banco de dados PostgresSQL.  
-    
+
+    *🔗 [Novo Repositório](https://github.com/jlucassaldanha/SpectraLiveApi)*
+  
     🔗 [Repositório](https://github.com/jlucassaldanha/spectra-live-api)
     
     🔗 [Link da aplicação](https://spectralive-api.up.railway.app/redoc)
